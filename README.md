@@ -1,12 +1,12 @@
-<h1 align="centre">𝐘𝐨𝐧𝐞 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭🎶🎸</h1>
+<h1 align="cent> SHADOWarrior 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭🎶🎸</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @YoneMusic_bot
 
-<p align="center">
-  <img src="https://telegra.ph/file/fe77d94e2105721ce4353.jpg">
-</p>
+
+
+
+
 
 <h2> Whats new 🔥 </h2>
 
